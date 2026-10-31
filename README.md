@@ -1,4 +1,4 @@
-# NeighborBean-Cafe-Mobile-Targeting-System
+# NeighborBean-Cafe-Mobile-Targeting-System-Project
 
 
 **Project Title: NeighborBean Cafe – Premium Local Cafe Experience**
